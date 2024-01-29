@@ -79,7 +79,7 @@ mm.add({
 
       
         
-  }, []);
+  }, [camera, materials.Body.color,scene.rotation ]);
 
   return (
     <group ref={group} {...props} dispose={null}>
