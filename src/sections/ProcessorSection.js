@@ -122,15 +122,10 @@ const ProcessorSection = () => {
       </Processor>
       <Text>
         <span>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-          Reprehenderit numquam quae nisi, dolore cum voluptatem cumque quo sit,
-          consequuntur necessitatibus iste fuga assumenda deserunt aut omnis,
-          quaerat aliquid optio veniam.
+        Apple's iPhone has revolutionized the smartphone industry, offering a sleek and intuitive design with a multi-touch display that made navigating through apps and websites seamless. The iPhone's innovative features, such as the pinch-to-zoom gesture and the on-screen keyboard, have become industry standards. The App Store has transformed the way we consume and utilize apps, providing a vast ecosystem of applications. With each iteration, Apple has introduced features like Face ID, augmented reality capabilities, and powerful cameras, pushing the boundaries of what a smartphone can do.
         </span>
         <span>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-          Reprehenderit numquam quae nisi, dolore cum voluptatem cumque quo sit,
-          consequuntur necessitatibus iste fuga assumenda deserunt aut.
+        The iPhone has also played a significant role in shaping media consumption and sharing. With high-resolution displays and powerful processors, the iPhone has become a portable entertainment hub, enabling users to stream movies, TV shows, and music seamlessly. The device's camera capabilities have transformed the way we capture and share moments, with features like Live Photos and advanced video recording. The iPhone's integration with social media platforms has made it easier than ever to share our experiences with friends and family, empowering users to be content creators and storytellers.
         </span>
       </Text>
     </Section>

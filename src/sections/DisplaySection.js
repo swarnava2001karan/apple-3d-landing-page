@@ -161,15 +161,13 @@ const DisplaySection = () => {
       <TextBlockRight>
         <Title>Super Ratine XDR Display</Title>
         <Text>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-          Necessitatibus dignissimos ipsam.
+        Immerse yourself in the brilliance of the iPhone's industry-leading Retina display, a true marvel delivering visuals of unparalleled vibrancy and sharpness that captivate your senses.
         </Text>
       </TextBlockRight>
       <TextBlockLeft ref={container}>
         <Title>Big is better</Title>
         <Text>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-          Necessitatibus dignissimos ipsam.
+        Apple has masterfully integrated cutting-edge HDR for incredible depth and True Tone for intelligent color adjustment, elevating the display to sublime heights.
         </Text>
       </TextBlockLeft>
 
